@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(33, 92, 148);
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
